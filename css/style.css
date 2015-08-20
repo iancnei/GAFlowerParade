@@ -1,0 +1,13 @@
+img {
+	height: 25%;
+	width: 25%;
+}
+
+#flower-placeholder {
+	display:inline-block;
+}
+
+#flower-text {
+	margin-left: 27%;
+	line-height: 2.5;
+}
